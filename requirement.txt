@@ -3,3 +3,4 @@ emoji
 Type option
 colors
 vibrant
+dark mode
